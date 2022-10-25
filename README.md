@@ -1,2 +1,2 @@
 # Practice
-we b programming with Python and JS
+web programming with Python and JS
