@@ -6,3 +6,5 @@ Programming languages list :
 3. Java
 4. C
 5. C++
+6. AWS
+7. Data Visualization (Tableau, Power BI)
