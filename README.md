@@ -9,4 +9,4 @@ Programming languages list :
 5. C++
 6. AWS
 7. Data Visualization (Tableau, Power BI)
-8. RRR
+8. R
